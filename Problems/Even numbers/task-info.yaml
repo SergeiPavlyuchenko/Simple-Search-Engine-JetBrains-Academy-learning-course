@@ -1,0 +1,27 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun solution(numbers: List<Int>) {
+        // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10736#comment
+status: Failed
+feedback:
+  message: |+
+    Failed test #1 of 3. Wrong answer
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    8 11 13 2
+    Correct output:
+    8 2
+
+
+    Your code output:
+
+  time: Fri, 30 Oct 2020 11:46:23 UTC
+record: -1
